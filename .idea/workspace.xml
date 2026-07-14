@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25e94a97-9967-4166-adba-85ac15095681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ComputerVisionEdu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/auto_fro_camera_short.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/cars001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/cars002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/motocycles_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/motocycles_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/peolple_to_bus_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/images/peolple_to_bus_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/program_yolo_0001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/sample_code/yolo_program_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/sample_code/yolo_program_002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/sample_code/yolo_program_003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/sample_code/yolo_rogram_000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/ultralitics_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/yolov8n.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_vision_yolo_basics/yolov8n.safetensors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/command.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3GT6xIvoccXj1cUFioyFroGqvWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.program_yolo_0001.executor": "Run",
+    "Python.ultralitics_check.executor": "Run",
+    "Python.yolo_program_001.executor": "Run",
+    "Python.yolo_program_002.executor": "Run",
+    "Python.yolo_program_003.executor": "Run",
+    "Python.yolo_rogram_000.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DRONES\CODE_COMPUTER_VISION\ComputerVisionEdu\code_vision_yolo_basics\sample_code" />
+      <recent name="D:\DRONES\CODE_COMPUTER_VISION\ComputerVisionEdu\docs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.program_yolo_0001">
+    <configuration name="program_yolo_0001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ComputerVisionEdu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_vision_yolo_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_vision_yolo_basics/program_yolo_0001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ultralitics_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ComputerVisionEdu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_vision_yolo_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_vision_yolo_basics/ultralitics_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo_program_002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ComputerVisionEdu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_vision_yolo_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\DRONES\CODE_COMPUTER_VISION\ComputerVisionEdu\code_vision_yolo_basics\sample_code\yolo_program_002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo_program_003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ComputerVisionEdu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_vision_yolo_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\DRONES\CODE_COMPUTER_VISION\ComputerVisionEdu\code_vision_yolo_basics\sample_code\yolo_program_003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo_rogram_000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ComputerVisionEdu" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_vision_yolo_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\DRONES\CODE_COMPUTER_VISION\ComputerVisionEdu\code_vision_yolo_basics\sample_code\yolo_rogram_000.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program_yolo_0001" />
+        <item itemvalue="Python.yolo_rogram_000" />
+        <item itemvalue="Python.ultralitics_check" />
+        <item itemvalue="Python.yolo_program_002" />
+        <item itemvalue="Python.yolo_program_003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e94a97-9967-4166-adba-85ac15095681" name="Changes" comment="" />
+      <created>1783983456411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783983456411</updated>
+    </task>
+    <servers />
+  </component>
+</project>

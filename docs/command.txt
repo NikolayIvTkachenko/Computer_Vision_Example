@@ -1,0 +1,44 @@
+pip install --upgrade setuptools
+
+pip uninstall setuptools
+pip install setuptools
+pip install --upgrade pip setuptools wheel
+
+# from ultralytics import YOLO  import pkg_resources as pkg ModuleNotFoundError: No module named 'pkg_resources'
+pip install setuptools
+pip3 install --upgrade setuptools
+pip install --upgrade pip setuptools wheel
+pip install --upgrade distribute
+
+setuptools<82
+pip<24
+wheel<0.45
+
+pip uninstall torch torchvision torchaudio
+pip install --pre torchvision
+
+pip install -U ultralytics
+#pip install -U ultralytics
+
+pip uninstall -y ultralytics
+pip install git+https://github.com/ultralytics/ultralytics.git
+
+pip install -U --force-reinstall ultralytics
+
+python --version
+
+
+
+
+
+
+
+
+
+
+------------------
+    raise FileNotFoundError(f"'{file}' does not exist")
+FileNotFoundError: 'yolov8n.safetensors' does not exist
+
+wget https://github.com/ultralytics/assets/releases/download/v8.3.0/yolov8n.safetensors
+https://github.com/ultralytics/assets/releases/download/v8.3.0/yolov8n.safetensors
