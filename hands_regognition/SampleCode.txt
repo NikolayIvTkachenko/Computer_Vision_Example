@@ -42,3 +42,9 @@ while True:
 
     cv2.imshow("Picture", img)
     cv2.waitKey(1)
+
+Ошибка AttributeError: 'google._upb._message.FieldDescriptor' object has no attribute
+pip uninstall protobuf
+pip install "protobuf<4"
+# Или конкретную версию, которую требует библиотека, например:
+# pip install protobuf==3.20.3
