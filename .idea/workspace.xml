@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e94a97-9967-4166-adba-85ac15095681" name="Changes" comment="update codes">
-      <change afterPath="$PROJECT_DIR$/computer_vision/yolo_read_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/computer_vision/yolov8n.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hands_regognition/HandsProgram001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hands_regognition/SampleCode.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mai.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HandsProgram001.executor": "Run",
     "Python.blur.executor": "Run",
     "Python.crop.executor": "Run",
     "Python.program_yolo_0001.executor": "Run",
@@ -64,8 +68,8 @@
       <recent name="D:\DRONES\CODE_COMPUTER_VISION\ComputerVisionEdu\docs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.yolo_read_video">
-    <configuration name="crop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HandsProgram001">
+    <configuration name="HandsProgram001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ComputerVisionEdu" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/computer_vision" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hands_regognition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/computer_vision/crop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hands_regognition/HandsProgram001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HandsProgram001" />
         <item itemvalue="Python.yolo_read_video" />
         <item itemvalue="Python.read_video" />
         <item itemvalue="Python.program_yolo_0002_web_cam" />
         <item itemvalue="Python.text" />
-        <item itemvalue="Python.crop" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784039308714</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update codes">
+      <option name="closed" value="true" />
+      <created>1784040085481</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784040085481</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
