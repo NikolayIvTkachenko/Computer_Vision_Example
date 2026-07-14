@@ -19,13 +19,15 @@ while True:
     results = model(img, show=False)
     annotated_frame = results[0].plot()
 
+    for r in results:
+        boxes = r.boxes
+        for box in boxes:
+            x1, y1, x2, y2 = box.xyxy[0]
+            x1, y1, x2, y2 = int(x1), int(y1), int(x2), int(y2)
+            print(x1, y1, x2, y2)
+            cv2.rectangle(img, (x1, y1), (x2, y2), (255, 0, 255), 3)
+
+
     cv2.imshow("Picture", annotated_frame)
     cv2.waitKey(1)
 
-
-
-
-
-
-#-------------------------------------------------------------------------
-#results = model(img, stream=True)
